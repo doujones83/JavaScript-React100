@@ -1,0 +1,16 @@
+body{
+    background: rgb(61, 53, 206);
+    background: radial-gradient(circle, rgb(37, 28, 223) 0%);
+}
+
+h1{
+    color: white;
+}
+
+.container{
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
